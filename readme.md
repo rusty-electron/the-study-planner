@@ -16,11 +16,15 @@ I always wanted to learn more about digital electronics as to how a computer wor
 
 Examination: **28th October, 2018**
 
+<hr>
+
 * Crytography 101 : Stanford via Coursera
 
 * Divide and Conquer, Sorting and Searching, and Randomized Algorithms : Stanford via Coursera
 
 I haven't started these yet but I plan to start them once I have checked off other items on my list.
+
+<hr>
 
 *Books:*
 
