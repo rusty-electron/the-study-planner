@@ -47,3 +47,7 @@ Today, I haven't studied much as I was invited to a friend's home for lunch so I
         * DRAM
         * SRAM
     * Hamming Code
+
+## 03-01-18 to 08-01-18
+
+*I haven't been able to study anything interesting due to college assignments and sessionals. Hope to be back by 9th.*
