@@ -1,6 +1,6 @@
 ## 10-10-18:
 
-1. Digital Circuit - Submission Day
+1. Digital Circuits - Submission Day
 
     * VHDL
         * Hardware Description Language
