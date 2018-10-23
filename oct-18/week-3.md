@@ -28,3 +28,35 @@ Steps involved shall be:
 
     * Complete JS Stuff in freecodecamp.com
     * Review content of *'Engineer Man Node Basics Playlist'*
+
+# 20-10-18
+
+1. FreeCodeCamp JS Curriculum
+
+Today, I revised much of FCC's Basic JS Quizzes and soon enough I plan to get myself *JS Algo Certification*.
+
+# 23-10-18
+
+1. FreeCodeCamp JS Curriculum
+
+    * Completed Revision of Javascript Basics
+    * Completed Revision of ES6 Basics
+
+    * Found two good guides on [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) and [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) at css-tricks.com
+
+2. Digital Circuits - Microprocessors
+
+    * Increment(INR) & Decrement(DCR)
+    * Manipulating Addresses
+    * Logical Operations
+    * Addressing Modes
+    * Data Formats
+    * Loop Counter
+    * Register Pair as Loop Counter
+    * Delay Loops
+    * Nested Loops
+    * Timing Diagram
+    * Stack
+    * Stack - PUSH & POP
+
+    *Week 12 Submission Tomorrow*
