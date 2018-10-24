@@ -60,3 +60,27 @@ Today, I revised much of FCC's Basic JS Quizzes and soon enough I plan to get my
     * Stack - PUSH & POP
 
     *Week 12 Submission Tomorrow*
+
+# 24-01-18
+
+1. Digital Circuits - Microprocessors
+
+    * PSW Register Pair
+    * Subroutines
+        * CALL & RET
+        * Passing Data to Subroutines
+        * Call by Ref & Call by Value
+    * Interrupts
+        * Responding to Interrupts
+        * 8085 Interrupts
+        * IVT
+        * Non-vectored Interrupts
+        * Restart Sequence
+        * Hardware Generation of RST Opcode
+        * INTR Interrupts
+        * Interrupt Priorities
+            * Priorty Encoder
+            * Daisy Chaining
+        * Vectored Interrupts
+        * Maskable Interrupts
+        * SIM & RIM
