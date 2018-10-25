@@ -84,3 +84,29 @@ Today, I revised much of FCC's Basic JS Quizzes and soon enough I plan to get my
         * Vectored Interrupts
         * Maskable Interrupts
         * SIM & RIM
+
+# 24-01-18
+
+1. Digital Circuits - Microprocessors
+
+    * TRAP
+    * Internal Interrupt Priority
+    * Direct Memory Access (DMA)
+    * Basic Concepts in Serial I/O
+    * Synchronous Data Transmission
+    * Asynchronous Data Transmission
+    * Simplex and Duplex Transmission
+        * Rate of Transmission
+        * Transmitting a Character
+        * Error Checking
+            * Parity Checking
+            * Checksum
+        * RS 232
+    * Serial Ports
+    * 8085 Programming
+        * Transmitting ASCII Character stored in a register
+        * Count the number of 1's in D register and store count in B register
+        * Sort 10 numbers stored in memory in ascending order
+        * Calculate the sum of series of even numbers from the list of numbers stored in memory
+        * Unpacking of Packed BCD Numbers
+
