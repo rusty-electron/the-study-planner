@@ -85,7 +85,7 @@ Today, I revised much of FCC's Basic JS Quizzes and soon enough I plan to get my
         * Maskable Interrupts
         * SIM & RIM
 
-# 24-01-18
+# 25-01-18
 
 1. Digital Circuits - Microprocessors
 
@@ -101,7 +101,7 @@ Today, I revised much of FCC's Basic JS Quizzes and soon enough I plan to get my
         * Error Checking
             * Parity Checking
             * Checksum
-        * RS 232
+        * RS-232
     * Serial Ports
     * 8085 Programming
         * Transmitting ASCII Character stored in a register
