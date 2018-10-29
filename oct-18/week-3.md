@@ -109,4 +109,3 @@ Today, I revised much of FCC's Basic JS Quizzes and soon enough I plan to get my
         * Sort 10 numbers stored in memory in ascending order
         * Calculate the sum of series of even numbers from the list of numbers stored in memory
         * Unpacking of Packed BCD Numbers
-
