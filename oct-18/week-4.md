@@ -39,3 +39,16 @@ The end of the course has cleared up a spot on my course schedule so I plan to f
         1. Voting algorithm
         1. Hough space
         1. Basic Hough transform algorithm
+
+# 01-11-18
+
+1. DC Machines - Transformers test on Saturday
+
+# 03-11-18
+
+1. Computer Vision - update week-6
+    * updated git repo
+    * added hough transform examples images
+
+2. DC Machines - Transformers 
+    * Test postponed to 05-11-18
