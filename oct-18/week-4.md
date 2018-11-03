@@ -44,7 +44,7 @@ The end of the course has cleared up a spot on my course schedule so I plan to f
 
 1. DC Machines - Transformers test on Saturday
 
-# 03-11-18
+# 02-11-18
 
 1. Computer Vision - update week-6
     * updated git repo
