@@ -14,3 +14,11 @@ The semester examinations are going to be held around the end of this month so m
     * Extensions of hough transfrom
 
     The next two lessons are also on hough transfrom so I plan to complete them within this week.
+
+### 04-11-2018
+
+Was not able to accomplish much today as I was busy with assignments and test preparation for Electric machines and Electronic Instrumentation.
+
+### 05-11-2018
+
+Started out writing the paper content for the [IIIT internship project](https://github.com/rusty-electron/smart-parking-system) paper at [overleaf.com](https://www.overleaf.com/). 
