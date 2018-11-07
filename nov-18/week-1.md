@@ -22,3 +22,28 @@ Was not able to accomplish much today as I was busy with assignments and test pr
 ### 05-11-2018
 
 Started out writing the paper content for the [IIIT internship project](https://github.com/rusty-electron/smart-parking-system) paper at [overleaf.com](https://www.overleaf.com/). 
+
+### 06-11-2018
+
+1. Computer Vision - Udacity
+
+Started out week-7 that deals with hough transform for detecting circles in image space.
+
+2. GATE Preparation
+
+So, finally after months of procastination I have started preparing for GATE. Although I have started the journey (and flexed a bit by post it here) yet the greater deal is to manage to keep it up daily or at least on alternate days.
+
+As for now, I plan to start working on the subjects of 
+* Digital Electronics
+* Control Systems
+
+We have been taught these subjects this semester so I have some idea about their core concepts (unlike subjects of previous semesters whose lessons have disappeared into the depths of my mind). Moreover, according to GATE lore these subjects are quite scoring and comparatively easy.
+
+### 07-11-2018
+
+1. Computer Vision - Udacity
+
+Completed week-7 today. But still behind schedule by **four weeks**.
+
+
+
