@@ -45,5 +45,12 @@ We have been taught these subjects this semester so I have some idea about their
 
 Completed week-7 today. But still behind schedule by **four weeks**.
 
+### 08-11-2018
+
+1. Machine Learning - Ng - Introduction
+2. Machine Learning A-Z - Introduction
+3. GATE Preparation
+    * Control Systems - Time response analysis
+
 
 
