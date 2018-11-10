@@ -52,5 +52,20 @@ Completed week-7 today. But still behind schedule by **four weeks**.
 3. GATE Preparation
     * Control Systems - Time response analysis
 
+### 09-11-2018
+
+1. Machine Learning - Ng
+    * Classification of ML Problems
+
+2. Machine Learning - Kirill
+    * Software set-up
+    * Missing data
+
+### 10-11-2018
+
+1. Machine Learning - Kirill
+    * Categorical Data
+    * Spliting training and testing data
+    * Feature Scaling
 
 
