@@ -18,3 +18,13 @@
         * Mean-normalization
     
 2. Electrical Machines Lab Evaluation - Tomorrow
+
+## 24-11-2018
+
+1. Control Systems - Academic Course
+
+    * Root Locus Plots
+    * Bode Plots
+
+2. Python scripting
+    * Regex
