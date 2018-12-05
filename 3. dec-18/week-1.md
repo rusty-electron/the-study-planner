@@ -8,15 +8,15 @@ First of all, I am really sorry for not being able to git these few days but I w
 
 ## 04-12-18
 
-Brushed up my linux-lingo by working on setting up a Ubuntu VM and testing my YT-mp3 download script in linux-ecosystem. On testing, found issues regarding path directory and folder-write permission. I was able fix it after poking around for sometime.
+Brushed up my linux-lingo by working on setting up a Ubuntu VM and testing my YT-mp3 download script on linux-ecosystem. On testing, I found issues regarding path directory and folder-write permission. I was able fix it after poking around for sometime.
 
 Aftermath: The console-app is now linux-compatible! although it didn't require much tweaking.
 
 ## 05-12-18
 
-Today, I planned to work on the KWoC thing and tried to have a look at all the project involved, was dazzled at the sheer quantity btw the page descriptions don't quite provide a very good explanation regarding the repo and I had to visit the github page readme to figure out what it actually was. 
+Today, I planned to work on the KWoC thing and tried to have a look at all the project involved, was dazzled at the sheer quantity btw the page descriptions on main-site don't quite provide a very good explanation regarding the repo and I had to visit the github page readme to figure out what it actually was. 
 
-As I realized it was possible to go through all of them I settled after looking into 20 of them. The ones I choose are rather simple and based mostly on python scripting and flask. 
+As I realized it was not possible to go through all of them, I settled after looking into 20 of them. The ones I choose are rather simple and based mostly on python scripting, webscraping and flask. 
 
 The projects I plan to work on are:
     
