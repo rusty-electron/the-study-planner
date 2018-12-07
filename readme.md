@@ -28,7 +28,7 @@ I always wanted to learn more about digital electronics as to how a computer wor
 
 Examination: **28th October, 2018**
 
-Update: **Awaiting results**
+Update: [Elite Certification](https://drive.google.com/open?id=1Z_xSVr9-dTuqAc6KFNAbjA6qyk-TNj8W) - 73%
 
 <hr>
 
