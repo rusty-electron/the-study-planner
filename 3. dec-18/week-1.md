@@ -24,5 +24,12 @@ The projects I plan to work on are:
 * [facebook-archive](https://github.com/kaustubhhiware/facebook-archive)
 * [artemis-arrow](https://github.com/thelethalcode/Artemis-arrow)
 
+# 07-12-18
+
+Aside from preparing for semester examinations, I am trying to keep up the progress of the KWoC Projects. As of now, I think I will have to study about the following topics:
+
+* Beautiful Soup
+* Regex
+* Tkinter windows
 
 
