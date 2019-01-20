@@ -9,3 +9,7 @@ Today is the submission date for the end-term report for KWoC '18. I have writte
 The Hacktoberfest T-shirt is here along with some nice stickers. I worked on a flask CRUD app and soon I plan on making an attendance tracker.
 
 I will be going back to college campus tomorrow and this will mark the beginning of the sixth semester of my degree. 
+
+## 19-01-2019
+
+I am back at campus and from tomorrow, classes shall begin. I wrote some html and created a simple but decent class routine site at ieroutine.tk for our branch.
