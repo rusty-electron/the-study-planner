@@ -13,3 +13,9 @@ Also I want to state that:
 After doing some reading on drone applications, I went ahead and discussed with Vishal regarding the project guidelines mentioned in the FAQs section of the host site. The meeting went great and we plan to meet again after some more reading on the topics along with other members of the team.
 
 The OTE test was decent as the question paper set that I had to solve was comparatively easy. Also, today I checked the procedure to operate a 8085 uP kit via a video tutorial and Simulation App. 
+
+## 05-03-19
+
+Week 5 of the NPTEL has been submitted. I'm still trying to figure out the cause for the malfunction of the adder circuit. I intend to show it to Durlav Sir (after preparing a circuit schematic for better understanding). An important task (pending) is that I need to revise the computer vision notes for the delivering the presentation to Ganguly Ma'am.
+
+AEC Coding Club Session is to be held next week.
