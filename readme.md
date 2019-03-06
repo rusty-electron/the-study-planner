@@ -10,6 +10,19 @@ As of now, I am trying to maintain between my undergrad studies and keeping up w
 
 *Courses:*
 
+* [Microprocessors and Microcontrollers - NPTEL Course](https://onlinecourses.nptel.ac.in/noc19_ee11/course) - Dr. Santanu Chattopadhyay
+
+Course Content:
+* 8085 Microprocessor
+* 8051 Microcontroller
+* PIC
+* AVR
+* ARM
+
+Examination: **27th April, 2019**
+
+<hr>
+
 * [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning/) - Andrew Ng
 
 I have always been fascinated by machine learning and its potential applications in various domains. Moreover, I needed to delve into this field for the ongoing computer vision project, so finally here we are. This course was recommended by various sources and after previewing some of the videos, I found the content to be good. Therefore, I take up this course to learn about the theoretical aspects of machine learning. 
