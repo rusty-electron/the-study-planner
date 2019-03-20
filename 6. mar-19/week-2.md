@@ -5,3 +5,13 @@ Today was the first day of the IoT workshop for our branch, it consisted of lect
 The Timed Charger (idea initiated in mid-2018) project is almost done, as of now I want to work on the Li-Po battery and some addition features like deep sleep mode and a better web UI.
 
 NPTEL Week 7 submission tomorrow and I also need to prepare for the flipped classroom topic for Signals & System.
+
+## 20-03-18
+
+As of today, I'm relaxed as we have four days of holidays up ahead (on account of Holi and well placed Sunday). So the plans to spend this holidays are:
+* NPTEL Revision - its about time to revise
+* Web API Projects
+* Flipped Classroom Task - Topic: Time Reversal of ???
+* OpenCV
+* IIIT Paper
+* and most importantly, GATE '20 Preparation (BTW the Gate Academy Study package will be here the next week).
